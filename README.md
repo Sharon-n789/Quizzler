@@ -47,3 +47,5 @@ Before running the project, ensure you have the requests library installed:
 * *`data.py`*: Fetches question data from the API.
 
 ## Preview
+
+![Quizzler App Demo](images/Quizzler.gif)
